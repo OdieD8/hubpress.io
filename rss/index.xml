@@ -1,6 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Tue, 28 Feb 2017 21:16:34 GMT</lastBuildDate><atom:link href="undefined/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hello (blog) World!]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Programming & Motorcycles Blog]]></title><description><![CDATA[A Programming & Motorcycles Blog]]></description><link>http://blog.od-werks.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 28 Feb 2017 21:26:31 GMT</lastBuildDate><atom:link href="http://blog.od-werks.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hello (blog) World!]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_greetings">Greetings</h2>
+<div class="sectionbody">
+<div class="paragraph">
 <p>When you first learn a new programming language in software development, it is customary to program an output of: Hello World!  So it is with my first ever blog post here. The main purpose of this blog will be to share my experiences and help you learn as I learn myself.</p>
 </div>
 <div class="paragraph">
 <p>I hope you enjoy the content.</p>
-</div>]]></description><link>undefined/2017/02/28/Hello-blog-World.html</link><guid isPermaLink="true">undefined/2017/02/28/Hello-blog-World.html</guid><dc:creator><![CDATA[Odie de Moura]]></dc:creator><pubDate>Tue, 28 Feb 2017 00:00:00 GMT</pubDate></item></channel></rss>
+</div>
+</div>
+</div>]]></description><link>http://blog.od-werks.com/2017/02/28/Hello-blog-World.html</link><guid isPermaLink="true">http://blog.od-werks.com/2017/02/28/Hello-blog-World.html</guid><dc:creator><![CDATA[Odie de Moura]]></dc:creator><pubDate>Tue, 28 Feb 2017 00:00:00 GMT</pubDate></item></channel></rss>
