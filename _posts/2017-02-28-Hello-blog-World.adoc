@@ -2,6 +2,8 @@
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 :hp-image: /covers/cover.png
 
+== Greetings
+
 When you first learn a new programming language in software development, it is customary to program an output of: Hello World!  So it is with my first ever blog post here. The main purpose of this blog will be to share my experiences and help you learn as I learn myself.
 
 I hope you enjoy the content.
