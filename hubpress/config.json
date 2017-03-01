@@ -6,12 +6,12 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "casper"
+    "name": "saga"
   },
   "urls": {
     "site": "http://blog.od-werks.com",
     "hubpress": "http://blog.od-werks.com",
-    "theme": "//blog.od-werks.com/themes/ghostium",
+    "theme": "//blog.od-werks.com/themes/casper",
     "images": "http://blog.od-werks.com/images"
   },
   "site": {
