@@ -11,14 +11,14 @@
   "urls": {
     "site": "http://blog.od-werks.com",
     "hubpress": "http://blog.od-werks.com",
-    "theme": "//blog.od-werks.com/themes/casper",
+    "theme": "//blog.od-werks.com/themes/saga",
     "images": "http://blog.od-werks.com/images"
   },
   "site": {
     "title": "A Programming & Motorcycle Blog",
     "description": "",
     "logo": "",
-    "cover": "",
+    "cover": "/images/bluebinarybackground.jpg",
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",
