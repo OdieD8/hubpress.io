@@ -15,10 +15,10 @@
     "images": "http://blog.od-werks.com/images"
   },
   "site": {
-    "title": "A Programming & Motorcycles Blog",
+    "title": "A Programming & Motorcycle Blog",
     "description": "",
     "logo": "",
-    "cover": "",
+    "cover": "overlay.png, bluebinarybackground.jpg",
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",
