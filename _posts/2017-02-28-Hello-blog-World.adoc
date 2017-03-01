@@ -1,6 +1,8 @@
 = Hello (blog) World!
-:hp-image: /images/hello-world.jpg
+//:hp-image: /images/hello-world.jpg
 //:hp-tags: HubPress, Blog, Open_Source
+
+image::hello-world.jpg
 
 When you learn a new programming language, the first thing you do traditionally is write a very simple program that outputs "Hello World!" on screen. And so it is with my first ever blog post here.
 
