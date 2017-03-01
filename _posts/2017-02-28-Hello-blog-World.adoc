@@ -1,9 +1,10 @@
 = Hello (blog) World!
-// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-:hp-image: /covers/cover.png
+:hp-image: /bluebinarybackground.jpg
+:hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
 
-== Greetings
+When you learn a new programming language, the first thing you do traditionally is write a very simple program that outputs "Hello World! on screen. And so it is with my first ever blog post here.
 
-When you first learn a new programming language in software development, it is customary to program an output of: Hello World!  So it is with my first ever blog post here. The main purpose of this blog will be to share my experiences and help you learn as I learn myself.
+The purpose of this blog is to share my learning experiences with you so that perhaps you may learn as well.
 
 I hope you enjoy the content.
